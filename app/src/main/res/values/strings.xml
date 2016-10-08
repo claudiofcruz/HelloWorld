@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="hello_world">Hello World!!</string>
+    <string name="action_settings">Setings</string>
+    <string name="fiap">Fiap - First App</string>
+    <string name="mensagem">MESSAGE</string>
+</resources>
